@@ -70,7 +70,8 @@ function promptUser() {
 function generateMarkdown(response) {
     return `
 
-    # ${response.title}
+# Title
+ ${response.title}
 
 # Table of Contents
 - [Description](#description)
@@ -111,8 +112,8 @@ ${response.description}
 - For any additional questions please reach out to my personal email @: ${response.email}.
 
 ## Video:
-If you want to see a video of this application running please click here:
-- [Video](https://youtu.be/LQdI3Ek4oI4)
+- If you want to see a video of this application running please click here:
+[Video](https://youtu.be/LQdI3Ek4oI4)
 `;
 }
 
