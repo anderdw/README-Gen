@@ -1,6 +1,7 @@
 
 
-    # Readme Generator
+# Title
+ Deans
 
 # Table of Contents
 - [Description](#description)
@@ -15,20 +16,20 @@
 - [Video](#video)
 
 ## Description:
-Creates a readme through Node.js
+Project is good
 
 ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
    
 ## Installation:
-    npm install util, fs, & inquirer
+    Install it
 ## Usage:
-    Use it for every project that requires a new readme
+    Alot
 ## Contributing:
     Dean
 ## Test:
-    Click readme preview on left hand side
+    Preview
 ## Citations:
-    Trilogy
+    None
 ## License:
     For more information about the License, click on the link below.
     
@@ -38,8 +39,8 @@ Creates a readme through Node.js
 - [GitHub Profile](https://github.com/anderdw)
 
 ## Email:
-- For any additional questions please reach out to my personal email @: anderdw@gmail.com.
+- For any additional questions please reach out to my personal email @: anderdw.
 
 ## Video:
-If you want to see a video of this application running please click here:
-- [Video]()
+- If you want to see a video of this application running please click here:
+[Video](https://youtu.be/LQdI3Ek4oI4)
