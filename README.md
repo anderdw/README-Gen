@@ -1,7 +1,7 @@
 
 
 # Title
- Deans
+ Dean's Readme Generator
 
 # Table of Contents
 - [Description](#description)
@@ -16,20 +16,20 @@
 - [Video](#video)
 
 ## Description:
-Project is good
+This is used to quickly make Readme files for new Projects.
 
 ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
    
 ## Installation:
-    Install it
+    npm install fs, util, inquirer
 ## Usage:
-    Alot
+    Whenever you are trying to make a new Readme for a project, you can use this tool.
 ## Contributing:
-    Dean
+    Dean Anderson
 ## Test:
-    Preview
+    Type in node readme.js and then right click on the README.md file and select preview to change anything you need.
 ## Citations:
-    None
+    Trilogy
 ## License:
     For more information about the License, click on the link below.
     
@@ -39,7 +39,7 @@ Project is good
 - [GitHub Profile](https://github.com/anderdw)
 
 ## Email:
-- For any additional questions please reach out to my personal email @: anderdw.
+- For any additional questions please reach out to my personal email @: anderdw@gmail.com.
 
 ## Video:
 - If you want to see a video of this application running please click here:
