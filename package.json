@@ -1,0 +1,17 @@
+{
+  "name": "readme-gen-master",
+  "version": "1.0.0",
+  "description": "![License](https://img.shields.io/badge/License--blue.svg \"License Badge\")     Makes a Readme.txt file ## Installation:     None ## Usage:     For Read me ## Contributing:     Dean ## Test:     Input text into the fields and then hit preview readme ## Credits:     Dean ## License:     For more information about the License, click on the link below.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
